@@ -1,7 +1,7 @@
 import qrcode
 
 # URL to encode in the QR code
-url = "https://example.com"
+url = "https://play.google.com/store/apps/details?id=com.banglartrainuserapp.app"
 
 # Generate the QR code
 qr = qrcode.QRCode(
